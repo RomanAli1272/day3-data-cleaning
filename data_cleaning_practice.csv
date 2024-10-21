@@ -1,0 +1,11 @@
+Name,Age,Salary,City,Gender
+John,29.0,50000.0,New York,M
+Emily,22.0,54000.0,Los Angeles,F
+Michael,35.0,150000.0,Chicago,M
+Sarah,,58000.0,Houston,F
+David,45.0,180000.0,,M
+Michael,35.0,62000.0,Chicago,M
+Anna,23.0,49000.0,New York,F
+,41.0,60000.0,Houston,
+Emily,,54000.0,Los Angeles,F
+David,45.0,,Houston,M
